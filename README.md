@@ -2,8 +2,6 @@
 
 A research implementation for binary classification of religion-targeted communal content in Hindi-English code-mixed YouTube comments using XLM-RoBERTa and BiLSTM.
 
-> Private review draft. Based on the M.Tech dissertation *Contextual Identification of Communal and Non-Communal Content in Hindi-English Social Media Comments* by Yashika Vats (BITS Pilani WILP, CDAC Noida, 2026). The repository uploader's individual contribution has not yet been documented. Confirm authorship, sharing permissions and contribution details before public release. No license is granted by this draft.
-
 ## Methodology
 
 THAR benchmark: 11,549 labeled comments; stratified train/validation/test split of 9,239 / 1,155 / 1,155 (split seed 42). Class 1 denotes religion-targeted hostility; class 0 denotes other content, not necessarily all benign speech.
