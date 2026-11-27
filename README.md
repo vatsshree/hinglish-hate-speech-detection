@@ -67,4 +67,4 @@ For detailed methodology, model architecture,
 experimental results, and performance analysis,
 refer to the technical research report.
 
-[View Research Report](docs/Hinglish_Hate_Speech_Research_Report.pdf)
+[View Research Report](docs/Technical_Overview.pdf)
