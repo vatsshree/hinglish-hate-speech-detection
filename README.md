@@ -62,3 +62,11 @@ Results are limited to the THAR benchmark and tested split. Sarcasm and implicit
 ## Dataset reference
 
 THAR: Targeted Hate Speech Against Religion: A High-Quality Hindi-English Code-Mixed Dataset with the Application of Deep Learning Models for Automatic Detection. DOI as listed in the supplied report: https://doi.org/10.1145/3653017 (bibliographic details should be verified before publication).
+
+## Research Report
+
+For detailed methodology, model architecture,
+experimental results, and performance analysis,
+refer to the technical research report.
+
+[View Research Report](docs/Hinglish_Hate_Speech_Research_Report.pdf)
