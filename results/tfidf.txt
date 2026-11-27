@@ -1,0 +1,23 @@
+TF-IDF Baseline Results
+{
+    "model": "TF-IDF + Logistic Regression",
+    "threshold": 0.4400000000000002,
+    "accuracy": 0.6813852813852814,
+    "communal_precision": 0.6207366984993179,
+    "communal_recall": 0.8348623853211009,
+    "communal_f1": 0.7120500782472613,
+    "macro_f1": 0.6777304654802199,
+    "auc_roc": 0.7584328470446683,
+    "confusion_matrix": [
+        [
+            332,
+            278
+        ],
+        [
+            90,
+            455
+        ]
+    ]
+}
+
+Saved outputs to: outputs/tfidf_baseline

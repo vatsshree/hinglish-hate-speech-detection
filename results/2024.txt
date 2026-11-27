@@ -1,0 +1,21 @@
+=== THAR BINARY TEST RESULTS ===
+Threshold: 0.62
+Accuracy:  0.7558
+Precision: 0.7138
+Recall:    0.8055
+F1:        0.7569
+Macro F1:  0.7558
+AUC-ROC:   0.8304166040006017
+Confusion matrix [[TN, FP], [FN, TP]]:
+[[434 176]
+ [106 439]]
+
+Report saved: /content/project/outputs/thar_unfrozen_seed_2024/metrics/thar_test_evaluation_report.json
+Plots saved: /content/project/outputs/thar_unfrozen_seed_2024/plots
+
+============================================================
+ THAR PIPELINE COMPLETED
+ Seed:       2024
+ Checkpoint: /content/project/checkpoints/thar_unfrozen_seed_2024/best_thar_binary_model.pt
+ Outputs:    /content/project/outputs/thar_unfrozen_seed_2024
+============================================================
